@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 It's a sunny day.
 Creating a new branch is quick.
-different branches
+add merge.
 
